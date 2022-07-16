@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28737462829",
+    "project_id": "fir-login-27908",
+    "storage_bucket": "fir-login-27908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28737462829:android:b74551ca3e23991ac88ea4",
+        "android_client_info": {
+          "package_name": "com.yunho.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28737462829-ap2tu7huc5j80ibt461f6h9j4ig2am27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIGYHe7rAknKFuvalppqxrAy2vOY2oWCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28737462829-ap2tu7huc5j80ibt461f6h9j4ig2am27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
