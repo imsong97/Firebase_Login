@@ -49,6 +49,7 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:30.2.0')
     implementation 'com.google.firebase:firebase-analytics-ktx' // analytics
     implementation 'com.google.firebase:firebase-auth-ktx' // auth
+    implementation 'com.google.firebase:firebase-messaging:23.0.6' // fcm
 
     // 코루틴
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2'
